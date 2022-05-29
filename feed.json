@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Khwaabon ki Dukaan",
+    "title": "Gosha",
     "description": "",
     "home_page_url": "https://mihirchhangani.github.io/blog",
     "feed_url": "https://mihirchhangani.github.io/blog/feed.json",
@@ -9,5 +9,19 @@
         "name": "Mihir Chhangani"
     },
     "items": [
+        {
+            "id": "https://mihirchhangani.github.io/blog/first-post.html",
+            "url": "https://mihirchhangani.github.io/blog/first-post.html",
+            "title": "First post",
+            "summary": "Test post",
+            "content_html": "<p>Test post</p>",
+            "author": {
+                "name": "Mihir Chhangani"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-29T10:57:53+05:30",
+            "date_modified": "2022-05-29T10:57:53+05:30"
+        }
     ]
 }
