@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Gosha",
     "description": "",
-    "home_page_url": "https://mihirchhangani.github.io/blog",
-    "feed_url": "https://mihirchhangani.github.io/blog/feed.json",
+    "home_page_url": "https://mihirchhangani.com",
+    "feed_url": "https://mihirchhangani.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Mihir Chhangani"
     },
     "items": [
         {
-            "id": "https://mihirchhangani.github.io/blog/first-post.html",
-            "url": "https://mihirchhangani.github.io/blog/first-post.html",
+            "id": "https://mihirchhangani.com/first-post.html",
+            "url": "https://mihirchhangani.com/first-post.html",
             "title": "First post",
             "summary": "Test post",
             "content_html": "<p>Test post</p>",
